@@ -16,7 +16,7 @@
 - Check out my projects below and let’s collaborate!
 
 ### 📫 Reach me:
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/charles-gonzalez-566ab025a/))
+- [LinkedIn](https://www.linkedin.com/in/charles-gonzalez-566ab025a/)
 - [Website}(https://charliegonzo.github.io/)
 
 ---
