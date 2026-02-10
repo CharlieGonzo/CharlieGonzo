@@ -17,7 +17,6 @@
 
 ### 📫 Reach me:
 - [LinkedIn](https://www.linkedin.com/in/charles-gonzalez-566ab025a/)
-- [Website}(http://charliegonzo.github.io/)
 
 ---
 
